@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="corner_radius_4dp">4dp</dimen>
+    <dimen name="elevation_4dp">4dp</dimen>
+    <dimen name="img_size_50dp">50dp</dimen>
+    <dimen name="margin_top_5dp">5dp</dimen>
+    <dimen name="margin_start_10dp">10dp</dimen>
+    <dimen name="margin_vertical_5dp">5dp</dimen>
+    <dimen name="margin_end_5dp">5dp</dimen>
+</resources>
